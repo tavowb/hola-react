@@ -36,6 +36,7 @@
   font-weight: bold;
   border: 1px solid #000;
   transition: 0.3s ease background-color;
+  width: 140px;
 }
 
 .tw-followCard-button:hover {
